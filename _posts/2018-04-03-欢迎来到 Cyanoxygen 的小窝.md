@@ -3,7 +3,7 @@ layout: post
 title: 欢迎来到 Cyanoxygen 的小窝
 date: 2018-4-3
 categories: blog
-header_img:img/favbg.jpg
+header_img: img/favbg.jpg
 tags: [Welcome]
 ---
 
