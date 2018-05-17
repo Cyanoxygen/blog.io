@@ -14,6 +14,7 @@ tags: [Welcome]
 欢迎来聊天。
 
 [我不信！](https://cyanoxygen.github.io)
+<iframe src="https://discordapp.com/widget?id=440159371859722240&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 
 
